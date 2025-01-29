@@ -36,4 +36,4 @@ I am a **Backend & Fullstack Developer** passionate about creating scalable and 
 📌 **Let's Connect and Collaborate!**
 
 📩 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkhancobanoglu@gmail.com)  
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%B6khan-%C3%A7obano%C4%9Flu-34536a267/)  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhan-cobanoglu/)  
