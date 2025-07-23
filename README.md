@@ -19,12 +19,11 @@ I am a **Backend & Fullstack Developer** passionate about creating scalable and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-009FDA?style=for-the-badge&logo=sap&logoColor=white)
 
 - **Backend Development**: Java (Spring Boot), .NET Core, Go, Python
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Docker, Git, Jenkins, Kubernetes
+- **DevOps & Tools**: Docker, Git, Kubernetes
 - **Frontend Basics**: HTML, CSS, JavaScript, React, TypeScript
 - **Enterprise Systems**: SAP CX, SAP MM, SAP SD
 - **Other Skills**: Microservices Architecture, RESTful APIs, Web Security
